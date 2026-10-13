@@ -7,4 +7,4 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 plan.md
-results/
+results/tables/confident_error_case_studies.csv

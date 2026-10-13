@@ -1,0 +1,6 @@
+Feature Group,Num Features,PR-AUC,ROC-AUC,F1 Score,Log Loss,Brier Score
+Audio Only,16,0.5423,0.5373,0.6576,0.7118,0.2584
+Context Only,13,0.8681,0.8642,0.7712,0.4624,0.1505
+History Only,7,0.5845,0.617,0.6855,0.6744,0.2404
+Context + History,20,0.8775,0.8791,0.806,0.4346,0.138
+All Features (Context + History + Audio),36,0.8871,0.8949,0.822,0.4088,0.1292

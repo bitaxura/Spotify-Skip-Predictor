@@ -1,0 +1,4 @@
+Target Definition,Positive Class %,PR-AUC,ROC-AUC,F1 Score,Accuracy,Log Loss
+Forward-Button Skip (reason_end='fwdbtn'),50.88,0.8871,0.8949,0.822,0.8143,0.4088
+Short-Play Skip (played < 30 seconds),58.89,0.9912,0.986,0.9448,0.9375,0.1408
+Spotify Telemetry Flag (skipped=True),73.07,0.9358,0.9043,0.9082,0.8606,0.3895
