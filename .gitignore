@@ -1,0 +1,10 @@
+personal data/
+training data/
+data/
+venv/
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+plan.md
+results/
